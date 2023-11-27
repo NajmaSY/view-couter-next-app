@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center ">
-      <p>You&apos;'re looking at my root route.</p>
+      <p>You&apos;re looking at my root route.</p>
     </main>
   );
 }
